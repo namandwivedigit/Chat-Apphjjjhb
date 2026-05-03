@@ -1,0 +1,12 @@
+{
+  "users": [
+    {"id":"admin-1","name":"Admin","email":"admin@app.com","password":"admin123","role":"admin"}
+  ],
+  "doctors": [
+    {"id":"d1","name":"Dr. Priya Sharma","service":"Cardiologist","fee":800,"rating":4.8},
+    {"id":"d2","name":"Dr. Arjun Mehta","service":"Dermatologist","fee":600,"rating":4.6}
+  ],
+  "appointments": [],
+  "notifications": [],
+  "reviews": []
+}
